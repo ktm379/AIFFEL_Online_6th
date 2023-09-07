@@ -1,1 +1,3 @@
-# 아이펠 과정 중 수행한 퀘스트를 아카이빙 하는 공간
+# fork_sample_repo
+this repo is sample repo for 그루 to practice fork
+# add a new comment

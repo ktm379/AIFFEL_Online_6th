@@ -8,21 +8,21 @@
     - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 
     퀘스트 문제 요구조건 등을 지칭
         - 프로젝트 루브릭 RFP <br><br>
-        - ![스크린샷 2023-09-26 오후 12 22 29](https://github.com/ktm379/AIFFEL_Online_6th/assets/138687269/a1debfa2-8219-4eb4-a5df-9a5af700ab7a)
+        - ![스크린샷 2023-09-26 오후 12 22 29](https://github.com/ktm379/AIFFEL_Online_6th/assets/138687269/a1debfa2-8219-4eb4-a5df-9a5af700ab7a)<br><br>
         - 해당 조건을 만족하는 코드를 캡쳐해 근거로 첨부
-              1. 프로젝트 1의 회귀모델 예측정확도가 기준 이상 높게 나왔는가? MSE 손실함수값 3000 이하 달성
-                 ![스크린샷 2023-09-26 오후 12 25 17](https://github.com/ktm379/AIFFEL_Online_6th/assets/138687269/4cf34d5c-6cf2-4528-b05c-affa0d0574ff)
-              2. 프로젝트 2의 회귀모델 예측정확도가 기준 이상 높게 나왔는가? RMSE 값 150 이하를 달성
-                  ![스크린샷 2023-09-26 오후 12 27 30](https://github.com/ktm379/AIFFEL_Online_6th/assets/138687269/b273d6b5-a8eb-42ac-9ab6-f8344d08a64e)
+              1. 프로젝트 1의 회귀모델 예측정확도가 기준 이상 높게 나왔는가? MSE 손실함수값 3000 이하 달성<br><br>
+                 ![스크린샷 2023-09-26 오후 12 25 17](https://github.com/ktm379/AIFFEL_Online_6th/assets/138687269/4cf34d5c-6cf2-4528-b05c-affa0d0574ff)<br><br>
+              2. 프로젝트 2의 회귀모델 예측정확도가 기준 이상 높게 나왔는가? RMSE 값 150 이하를 달성<br><br>
+                  ![스크린샷 2023-09-26 오후 12 27 30](https://github.com/ktm379/AIFFEL_Online_6th/assets/138687269/b273d6b5-a8eb-42ac-9ab6-f8344d08a64e)<br><br>
               3. 시각화 요구사항이 정확하게 이루어졌는가?
-                  1. x축에는 X 데이터의 첫 번째 컬럼을, y축에는 정답인 target 데이터를 넣어서 모델이 예측한 데이터를 시각화해 주세요.
-                      ![스크린샷 2023-09-26 오후 12 28 34](https://github.com/ktm379/AIFFEL_Online_6th/assets/138687269/2d1276ac-2dc5-4ba9-92d7-5586747142b7)
-                  2. year, month, day, hour, minute, second 데이터 개수 시각화하기
-                      ![스크린샷 2023-09-26 오후 12 30 12](https://github.com/ktm379/AIFFEL_Online_6th/assets/138687269/0ae586ff-14ce-4aa9-9127-c785809006e0)
-                  3. x축에 X 데이터 중 temp 데이터를, y축에는 count 데이터를 넣어서 시각화하기
-                      ![스크린샷 2023-09-26 오후 12 31 32](https://github.com/ktm379/AIFFEL_Online_6th/assets/138687269/6a3a64a6-4e73-4e0a-bbaa-bed55b197220)
-                  4. x축에 X 데이터 중 humidity 데이터를, y축에는 count 데이터를 넣어서 시각화하기
-                      ![스크린샷 2023-09-26 오후 12 31 57](https://github.com/ktm379/AIFFEL_Online_6th/assets/138687269/c05d6b8c-a763-47fa-8544-edd14e5828e4)
+                  1. x축에는 X 데이터의 첫 번째 컬럼을, y축에는 정답인 target 데이터를 넣어서 모델이 예측한 데이터를 시각화해 주세요.<br><br>
+                      ![스크린샷 2023-09-26 오후 12 28 34](https://github.com/ktm379/AIFFEL_Online_6th/assets/138687269/2d1276ac-2dc5-4ba9-92d7-5586747142b7)<br><br>
+                  2. year, month, day, hour, minute, second 데이터 개수 시각화하기<br><br>
+                      ![스크린샷 2023-09-26 오후 12 30 12](https://github.com/ktm379/AIFFEL_Online_6th/assets/138687269/0ae586ff-14ce-4aa9-9127-c785809006e0)<br><br>
+                  3. x축에 X 데이터 중 temp 데이터를, y축에는 count 데이터를 넣어서 시각화하기<br><br>
+                      ![스크린샷 2023-09-26 오후 12 31 32](https://github.com/ktm379/AIFFEL_Online_6th/assets/138687269/6a3a64a6-4e73-4e0a-bbaa-bed55b197220)<br><br>
+                  4. x축에 X 데이터 중 humidity 데이터를, y축에는 count 데이터를 넣어서 시각화하기<br><br>
+                      ![스크린샷 2023-09-26 오후 12 31 57](https://github.com/ktm379/AIFFEL_Online_6th/assets/138687269/c05d6b8c-a763-47fa-8544-edd14e5828e4)<br><br>
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
@@ -61,10 +61,10 @@
         - 파이썬 스타일 가이드를 준수하여 코드 작성한 것 같습니다.
     - 하드코딩을 하지않고 함수화, 모듈화가 가능한 부분은 함수를 만들거나 클래스로 짰는지
         - gradient값을 계산하는 코드가 모듈화가 진행되어있었으면 좋겠다는 의견
-        - ![스크린샷 2023-09-26 오후 12 47 50](https://github.com/ktm379/AIFFEL_Online_6th/assets/138687269/b7093dc8-4a65-4d9e-9f7c-19d430972926)
+        - ![스크린샷 2023-09-26 오후 12 47 50](https://github.com/ktm379/AIFFEL_Online_6th/assets/138687269/b7093dc8-4a65-4d9e-9f7c-19d430972926)<br><br>
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화했는지
-        - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
-        ![스크린샷 2023-09-26 오후 12 49 43](https://github.com/ktm379/AIFFEL_Online_6th/assets/138687269/dd86b949-6485-4117-b734-a571f86752d0)
+        - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.<br><br>
+        ![스크린샷 2023-09-26 오후 12 49 43](https://github.com/ktm379/AIFFEL_Online_6th/assets/138687269/dd86b949-6485-4117-b734-a571f86752d0)<br><br>
 
 
 # 참고 링크 및 코드 개선

@@ -1,22 +1,26 @@
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 김태민
-- 리뷰어 : 리뷰어의 이름을 작성하세요.
+- 리뷰어 : 김서연
 
 
 # PRT(Peer Review Template)
-- [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
-    - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
-    - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 
-    퀘스트 문제 요구조건 등을 지칭
-        - 해당 조건을 만족하는 코드를 캡쳐해 근거로 첨부
+- [X]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
+    - ![re1](https://github.com/Seoyeon1129/AIFFEL_Online_6th/assets/112914475/32ffb8ce-43cf-426c-b613-f0763eac46e7)
+    - ![re2](https://github.com/Seoyeon1129/AIFFEL_Online_6th/assets/112914475/e6193803-3311-4c1e-b38d-b9dcc1b6f3f7)
+    - ![re3](https://github.com/Seoyeon1129/AIFFEL_Online_6th/assets/112914475/1a026ba5-cfa8-4018-9d1f-a9a768750009)
+    - <img width="570" alt="스크린샷 2023-10-06 오후 12 03 31" src="https://github.com/Seoyeon1129/AIFFEL_Online_6th/assets/112914475/87f35835-373b-413c-997e-e717106362bb">
+    - <img width="791" alt="스크린샷 2023-10-06 오후 12 01 18" src="https://github.com/Seoyeon1129/AIFFEL_Online_6th/assets/112914475/97cd160f-4257-41b8-a599-60cdd10a6dcc">
+    - <img width="884" alt="스크린샷 2023-10-06 오후 12 01 59" src="https://github.com/Seoyeon1129/AIFFEL_Online_6th/assets/112914475/a790adff-f3db-4967-875b-741c3da89b99">
+    
+
+
+
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
-    - 해당 코드 블럭에 doc string/annotation이 달려 있는지 확인
-    - 해당 코드가 무슨 기능을 하는지, 왜 그렇게 짜여진건지, 작동 메커니즘이 뭔지 기술.
-    - 주석을 보고 코드 이해가 잘 되었는지 확인
-        - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
-        
+    - <img width="691" alt="스크린샷 2023-10-06 오후 12 05 25" src="https://github.com/Seoyeon1129/AIFFEL_Online_6th/assets/112914475/fa769b9e-aad1-4dec-bed1-313f45502c42">
+    - <img width="537" alt="스크린샷 2023-10-06 오후 12 05 40" src="https://github.com/Seoyeon1129/AIFFEL_Online_6th/assets/112914475/0deaebcd-efd2-4944-a80b-6c17480a5527">
+
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 “해결한 기록을 남겼거나” 
 ”새로운 시도 또는 추가 실험을 수행”해봤나요?**
     - 문제 원인 및 해결 과정을 잘 기록하였는지 확인
